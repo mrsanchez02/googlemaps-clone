@@ -29,7 +29,7 @@ const setupMap = (center) => {
         limit:3,
         placeholder:'🔍 Search'
     })
-    map.addControl(geocoder,'bottom-left');
+    map.addControl(geocoder,'top-left');
     
     // Mostrar controles de direccion (Para trazar ruta)
      map.addControl(
