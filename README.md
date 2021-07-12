@@ -8,5 +8,5 @@ Mapbox es una herramienta increíblemente poderosa para crear aplicaciones basad
 ---
 💡**Nota:**
 
-    Mapbox es un proveedor de mapas en línea realizados por encargo para páginas webs como Foursquare, Pinterest, Evernote, Financial Times, EThe Weather Channel y Uber Tecnologías.​
+Mapbox es un proveedor de mapas en línea realizados por encargo para páginas webs como Foursquare, Pinterest, Evernote, Financial Times, EThe Weather Channel y Uber Tecnologías.​
 [Wikipedia](https://wikipedia.org/wiki/Mapbox)
