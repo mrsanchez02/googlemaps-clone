@@ -7,3 +7,7 @@ body{
     width: 100vw;
     height: 100vh;
 }
+
+.mapboxgl-ctrl-geocoder--icon,.mapboxgl-ctrl-geocoder--icon-search {
+    display: none;
+}
