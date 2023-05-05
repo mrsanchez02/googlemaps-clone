@@ -17,6 +17,10 @@ const setupMap = (center) => {
         center: center,
         zoom: 15
     });
+
+    const marker = new mapboxgl.Marker()
+        .setLngLat(center)
+        .addTo(map)
     
     // Mostrar Controles de navegacion (zoomIn, ZoomOut y Compass)
     const nav = new mapboxgl.NavigationControl();
@@ -38,5 +42,7 @@ const setupMap = (center) => {
         }),
         'top-left'
     )
+
+    map.on('click', ()=> marker.remove())
 }
 
